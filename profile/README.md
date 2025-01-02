@@ -26,31 +26,6 @@ The project offers two inference platforms where users can upload images to anal
 - **User-Friendly Interface**: The inference sites are designed with a simple and intuitive interface to facilitate easy interaction.
 - **Multiple Resolution Support**: Choose between high-resolution and low-resolution image processing based on your needs.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.10 or higher
-- Required packages (install using `pip install -r requirements.txt`)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Solar-Vision-NRSC-ISRO/Solar-Vision-NRSC-ISRO.git
-   cd Solar-Vision-NRSC-ISRO
-   ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the inference application locally:
-   ```bash
-   streamlit run app.py
-   ```
-
 ## Usage
 
 - Visit the inference websites, upload your images, and receive results in a matter of seconds.
@@ -60,14 +35,10 @@ The project offers two inference platforms where users can upload images to anal
 
 We welcome contributions to enhance the project further. Feel free to open issues or submit pull requests for new features or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgements
 
 - National Remote Sensing Centre (NRSC) - ISRO for supporting this initiative.
 - Contributors and collaborators who have helped in the development of this project.
 
-For more information and updates, please follow our [GitHub Repository](https://github.com/Solar-Vision-NRSC-ISRO/Solar-Vision-NRSC-ISRO).
+For more information and updates, please follow our [GitHub Repository](https://github.com/Solar-Vision-NRSC-ISRO/.github).
 - If you have a contributing guideline or code of conduct, you can include those as well.
